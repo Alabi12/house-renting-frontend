@@ -111,13 +111,13 @@ In order to run this project you need:
 Clone this repository to your desired folder(`Rails`):
 
 ```sh
- git clone https://https://github.com/soesandarwin2201/house-renting-backend
+ git clone https://github.com/Alabi12/house-renting-backend.git
 ```
 
-Clone Another repository for frontend(`React`). [Project](https://github.com/soesandarwin2201/house-renting-frontend)
+Clone Another repository for frontend(`React`). [Project](https://github.com/Alabi12/house-renting-frontend)
 
 ```sh
- git clone https://https://github.com/soesandarwin2201/house-renting-frontend
+ git clone https://github.com/Alabi12/house-renting-frontend.git
 ```
 
 ### Install
@@ -158,7 +158,7 @@ For the React project,
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Robert**
-- GitHub: @githubhandle]( https://github.com/Alabi12)
+- GitHub: [@githubhandle]( https://github.com/Alabi12)
 - Twitter: [@twitterhandle]( https://twitter.com/wolo_robert)
 - LinkedIn: [LinkedIn]( https://www.linkedin.com/in/robert-alabi/)
 
@@ -202,7 +202,7 @@ For the React project,
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/soesandarwin2201/house-renting-frontend/issues).
+Feel free to check the [issues page](https://github.com/Alabi12/house-renting-frontend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
