@@ -33,8 +33,8 @@
 
 ## 🛠 Project Links
 
-- [Frontend Repository]( https://github.com/soesandarwin2201/house-renting-frontend)
-- [Backend Repository]( https://github.com/soesandarwin2201/house-renting-backend)
+- [Frontend Repository]( https://github.com/Alabi12/house-renting-frontend)
+- [Backend Repository]( https://github.com/Alabi12/house-renting-backend)
 
 ### Tech Stack <a name="tech-stack"></a>
 
